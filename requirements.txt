@@ -1,0 +1,9 @@
+# Q1 dataset loading and Q3-Q9 retrieval
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+requests>=2.31
+
+# Q10-Q11 pre-trained review sentiment model
+transformers>=4.38
+torch>=2.1
